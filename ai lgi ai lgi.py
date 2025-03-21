@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Skor Efektivitas Obat</title>
     <style>
-        body {
+        body (
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
             background: linear-gradient(to left, #691b1b, #691b1b);
             text-align: center;
-        }
+        )
         .container {
             max-width: 500px;
             margin: 50px auto;
